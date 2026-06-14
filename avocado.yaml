@@ -4,7 +4,7 @@ supported_targets:
 
 extensions:
   avocado-bsp-grinn-astra-1680-sbc:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Board support for Grinn Astra 1680 SBC
     description: Board support for Grinn Astra 1680 SBC
