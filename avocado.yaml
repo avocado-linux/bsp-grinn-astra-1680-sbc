@@ -9,7 +9,7 @@ extensions:
     summary: Board support for Grinn Astra 1680 SBC
     description: Board support for Grinn Astra 1680 SBC
     license: Apache-2.0
-    url: https://github.com/avocadolinux/avocado-os
+    url: https://github.com/avocado-linux/bsp-grinn-astra-1680-sbc
     vendor: Avocado Linux <info@avocadolinux.org>
 
     on_merge:
